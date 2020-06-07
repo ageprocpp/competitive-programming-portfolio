@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/competitive-programming-portfolio/static/css/main.80da08c0.chunk.css",
-    "main.js": "/competitive-programming-portfolio/static/js/main.99e8039c.chunk.js",
-    "main.js.map": "/competitive-programming-portfolio/static/js/main.99e8039c.chunk.js.map",
+    "main.js": "/competitive-programming-portfolio/static/js/main.2dc91b99.chunk.js",
+    "main.js.map": "/competitive-programming-portfolio/static/js/main.2dc91b99.chunk.js.map",
     "runtime-main.js": "/competitive-programming-portfolio/static/js/runtime-main.1013e85e.js",
     "runtime-main.js.map": "/competitive-programming-portfolio/static/js/runtime-main.1013e85e.js.map",
     "static/js/2.e226abba.chunk.js": "/competitive-programming-portfolio/static/js/2.e226abba.chunk.js",
     "static/js/2.e226abba.chunk.js.map": "/competitive-programming-portfolio/static/js/2.e226abba.chunk.js.map",
     "index.html": "/competitive-programming-portfolio/index.html",
-    "precache-manifest.b729db821557e6a6ab0952ff53a873d7.js": "/competitive-programming-portfolio/precache-manifest.b729db821557e6a6ab0952ff53a873d7.js",
+    "precache-manifest.efed56725a4fd07aa6101c6e4b88a080.js": "/competitive-programming-portfolio/precache-manifest.efed56725a4fd07aa6101c6e4b88a080.js",
     "service-worker.js": "/competitive-programming-portfolio/service-worker.js",
     "static/css/main.80da08c0.chunk.css.map": "/competitive-programming-portfolio/static/css/main.80da08c0.chunk.css.map",
     "static/js/2.e226abba.chunk.js.LICENSE.txt": "/competitive-programming-portfolio/static/js/2.e226abba.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1013e85e.js",
     "static/js/2.e226abba.chunk.js",
     "static/css/main.80da08c0.chunk.css",
-    "static/js/main.99e8039c.chunk.js"
+    "static/js/main.2dc91b99.chunk.js"
   ]
 }
